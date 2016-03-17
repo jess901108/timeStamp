@@ -23,8 +23,8 @@ https://timestampproject-jess901108.c9users.io/1458086400
 #### Sample Output
 ```
  {
-  natural: "March 16, 2016",
-  unix: "1458086400"
+  'natural': "March 16, 2016",
+  'unix': "1458086400"
   }
 ```
 ## Run this app
