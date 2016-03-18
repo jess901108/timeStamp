@@ -1,9 +1,8 @@
 # Time Stamp Service API Project(Node.js)
 
 ## Overview
-  This is an simple API node.js project that takes one format of time input and 
-  return and display a JSON object of
-  dates display in two formats:
+  This is an simple node.js API project that takes one format of time input then
+  return and display a JSON object in two formats:
  
   - UNIX
   - Human Readable format
