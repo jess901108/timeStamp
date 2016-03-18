@@ -1,0 +1,6 @@
+{
+    "name": "timestamp microservice api",
+    "description": "Display date in two forms api",
+    "repository": "https://github.com/jess901108/timestamp.git",
+    "keywords": ["api","timestamp"]
+}
